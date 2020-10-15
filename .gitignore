@@ -1,0 +1,9 @@
+.idea/
+dist/
+node_modules/
+#tests/__coverage__/
+#tests/**/*.jsx
+
+# Project exclude paths
+/src/index.js
+/src/index.test.js
